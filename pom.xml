@@ -68,7 +68,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<joda.time.version>2.10.14</joda.time.version>
 		<commons.validator.version>1.7</commons.validator.version>
-		<junit.version>4.11</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<easymock.version>3.2</easymock.version>
 		<httpclient.version>4.5.13</httpclient.version>
 		<jackson.databind.version>2.13.4.2</jackson.databind.version>
